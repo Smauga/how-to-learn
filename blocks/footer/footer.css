@@ -2,4 +2,6 @@
   background-color: #1f1f1f;
   box-sizing: content-box;
   padding: 60px 0 40px;
+  display: flex;
+  min-height: 250px;
 }
